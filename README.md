@@ -37,7 +37,7 @@ Para facilitar a implementação em projetos reais, os recursos catalogados segu
 
 Cria, edita e analisa documentos Word.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/docx)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/docx](https://github.com/anthropics/skills/tree/main/skills/docx)
 
 ---
 ### Internal Comms
@@ -45,7 +45,7 @@ Cria, edita e analisa documentos Word.
 
 Ajuda a criar anúncios internos, updates e comunicações de time.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/internal-comms)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms)
 
 ---
 ### Doc Coauthoring
@@ -53,7 +53,7 @@ Ajuda a criar anúncios internos, updates e comunicações de time.
 
 Coautoria, revisão e edição colaborativa de documentos.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring)
 
 ---
 ### PDF
@@ -61,7 +61,7 @@ Coautoria, revisão e edição colaborativa de documentos.
 
 Extrai, analisa e trabalha com PDFs.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/pdf)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)
 
 ---
 ### Brand Guidelines
@@ -69,7 +69,7 @@ Extrai, analisa e trabalha com PDFs.
 
 Aplica diretrizes de marca em documentos e materiais.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines)
 
 ---
 ### XLSX
@@ -77,7 +77,7 @@ Aplica diretrizes de marca em documentos e materiais.
 
 Trabalha com planilhas Excel.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/xlsx)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)
 
 ---
 ### PPTX
@@ -85,7 +85,7 @@ Trabalha com planilhas Excel.
 
 Cria e edita apresentações.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/pptx)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)
 
 ---
 
@@ -98,7 +98,7 @@ Cria e edita apresentações.
 
 Aplica boas práticas de React/Next.js, performance e organização de componentes.
 
-🔗 [Acessar Repositório](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)
+🔗 [https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices)
 
 ---
 ### Web Artifacts Builder
@@ -106,7 +106,7 @@ Aplica boas práticas de React/Next.js, performance e organização de component
 
 Cria web artifacts e apps interativos.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder)
 
 ---
 ### Impeccable
@@ -114,7 +114,7 @@ Cria web artifacts e apps interativos.
 
 Polimento e auditoria visual de interfaces e dashboards.
 
-🔗 [Acessar Repositório](https://impeccable.style)
+🔗 [https://impeccable.style](https://impeccable.style)
 
 ---
 ### Frontend Design
@@ -122,7 +122,7 @@ Polimento e auditoria visual de interfaces e dashboards.
 
 Skill oficial da Anthropic para criar interfaces melhores e fugir do visual genérico de IA.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
 
 ---
 ### Vercel Web Design Guidelines
@@ -130,7 +130,7 @@ Skill oficial da Anthropic para criar interfaces melhores e fugir do visual gen�
 
 Audita UI contra boas práticas de acessibilidade, UX e design.
 
-🔗 [Acessar Repositório](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)
+🔗 [https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines)
 
 ---
 ### Vercel Composition Patterns
@@ -138,7 +138,7 @@ Audita UI contra boas práticas de acessibilidade, UX e design.
 
 Ajuda a fugir do "boolean prop hell" e usar padrões melhores de composição.
 
-🔗 [Acessar Repositório](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns)
+🔗 [https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns)
 
 ---
 ### UI UX Pro Max
@@ -146,7 +146,7 @@ Ajuda a fugir do "boolean prop hell" e usar padrões melhores de composição.
 
 Skill de design intelligence para layout, cores, tipografia e guidelines visuais.
 
-🔗 [Acessar Repositório](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+🔗 [https://github.com/nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
 ---
 ### Canvas Design
@@ -154,7 +154,7 @@ Skill de design intelligence para layout, cores, tipografia e guidelines visuais
 
 Ajuda em design visual/canvas e composições gráficas.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/canvas-design)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)
 
 ---
 ### Theme Factory
@@ -162,7 +162,7 @@ Ajuda em design visual/canvas e composições gráficas.
 
 Cria temas visuais consistentes para projetos.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/theme-factory)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory)
 
 ---
 
@@ -175,7 +175,7 @@ Cria temas visuais consistentes para projetos.
 
 Skill oficial para testar apps web com navegador/Playwright.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing)
 
 ---
 ### MCP Builder
@@ -183,7 +183,7 @@ Skill oficial para testar apps web com navegador/Playwright.
 
 Ajuda a criar servidores MCP para conectar agentes a ferramentas externas.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder)
 
 ---
 ### Karpathy Guidelines
@@ -191,7 +191,7 @@ Ajuda a criar servidores MCP para conectar agentes a ferramentas externas.
 
 Força simplicidade, mudanças cirúrgicas, checagem e raciocínio antes de sair codando.
 
-🔗 [Acessar Repositório](https://github.com/multicall/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines)
+🔗 [https://github.com/multicall/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines](https://github.com/multicall/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines)
 
 ---
 ### Claude API
@@ -199,7 +199,7 @@ Força simplicidade, mudanças cirúrgicas, checagem e raciocínio antes de sair
 
 Ajuda a trabalhar com API da Claude em integrações e produtos.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/claude-api)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/claude-api](https://github.com/anthropics/skills/tree/main/skills/claude-api)
 
 ---
 ### Trail of Bits Security
@@ -207,7 +207,7 @@ Ajuda a trabalhar com API da Claude em integrações e produtos.
 
 Skills de segurança com CodeQL, Semgrep e análise de vulnerabilidades.
 
-🔗 [Acessar Repositório](https://github.com/trailofbits/skills)
+🔗 [https://github.com/trailofbits/skills](https://github.com/trailofbits/skills)
 
 ---
 ### Axiom
@@ -215,7 +215,7 @@ Skills de segurança com CodeQL, Semgrep e análise de vulnerabilidades.
 
 Workflow para desenvolvimento Apple/iOS/macOS com Swift, SwiftUI, Xcode e debugging.
 
-🔗 [Acessar Repositório](https://github.com/CharlesWitgen/Axiom)
+🔗 [https://github.com/CharlesWitgen/Axiom](https://github.com/CharlesWitgen/Axiom)
 
 ---
 ### Playwright Skill
@@ -223,7 +223,7 @@ Workflow para desenvolvimento Apple/iOS/macOS com Swift, SwiftUI, Xcode e debugg
 
 Exploração e teste de apps usando Playwright de forma mais leve que MCPs grandes.
 
-🔗 [Acessar Repositório](https://github.com/lackeyjb/playwright-skill)
+🔗 [https://github.com/lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill)
 
 ---
 
@@ -236,7 +236,7 @@ Exploração e teste de apps usando Playwright de forma mais leve que MCPs grand
 
 Mantém especificações comportamentais junto do código. Bom para times que querem specs vivas.
 
-🔗 [Acessar Repositório](https://github.com/juxt/allium)
+🔗 [https://github.com/juxt/allium](https://github.com/juxt/allium)
 
 ---
 ### Spec-Driven Development
@@ -244,7 +244,7 @@ Mantém especificações comportamentais junto do código. Bom para times que qu
 
 Gera requirements.md, design.md, tasks.md e arquivos de configuração para agentes.
 
-🔗 [Acessar Repositório](https://github.com/FredAntB/Spec-Driven-Development)
+🔗 [https://github.com/FredAntB/Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development)
 
 ---
 ### PAUL
@@ -252,7 +252,7 @@ Gera requirements.md, design.md, tasks.md e arquivos de configuração para agen
 
 Plan-Apply-Unify Loop: fluxo mais leve de planejamento e execução sem framework gigante.
 
-🔗 [Acessar Repositório](https://github.com/ChristopherKahler/paul)
+🔗 [https://github.com/ChristopherKahler/paul](https://github.com/ChristopherKahler/paul)
 
 ---
 ### GSD / Get Shit Done
@@ -260,7 +260,7 @@ Plan-Apply-Unify Loop: fluxo mais leve de planejamento e execução sem framewor
 
 Stack pesada de produtividade e engenharia, com comandos para planejar, revisar, debater requisitos e executar tarefas grandes.
 
-🔗 [Acessar Repositório](https://github.com/gsd-build/get-shit-done)
+🔗 [https://github.com/gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
 
 ---
 ### Improve Codebase Architecture
@@ -268,7 +268,7 @@ Stack pesada de produtividade e engenharia, com comandos para planejar, revisar,
 
 Ajuda a pensar e executar refatorações arquiteturais com menos chute.
 
-🔗 [Acessar Repositório](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture)
+🔗 [https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture)
 
 ---
 ### Jeff Allan Claude Skills
@@ -276,7 +276,7 @@ Ajuda a pensar e executar refatorações arquiteturais com menos chute.
 
 Pacote de skills e comandos para full-stack development e workflows de engenharia com IA.
 
-🔗 [Acessar Repositório](https://github.com/jeffallan/claude-skills)
+🔗 [https://github.com/jeffallan/claude-skills](https://github.com/jeffallan/claude-skills)
 
 ---
 ### OpenSpec
@@ -284,7 +284,7 @@ Pacote de skills e comandos para full-stack development e workflows de engenhari
 
 Workflow de spec-driven development: proposta, aplicação e arquivamento de mudanças.
 
-🔗 [Acessar Repositório](https://github.com/Fission-AI/OpenSpec)
+🔗 [https://github.com/Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 ---
 ### Claude Code Kit
@@ -292,7 +292,7 @@ Workflow de spec-driven development: proposta, aplicação e arquivamento de mud
 
 Coleções de skills para stacks como Next.js, React, Tailwind, Prisma e Express.
 
-🔗 [Acessar Repositório](https://github.com/brianecorp/claude-code-kit)
+🔗 [https://github.com/brianecorp/claude-code-kit](https://github.com/brianecorp/claude-code-kit)
 
 ---
 ### Planning With Files
@@ -300,7 +300,7 @@ Coleções de skills para stacks como Next.js, React, Tailwind, Prisma e Express
 
 Cria planos persistentes em arquivos para tarefas longas, evitando perda de contexto entre sessões.
 
-🔗 [Acessar Repositório](https://github.com/OthmanAdi/planning-with-files)
+🔗 [https://github.com/OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 
 ---
 ### BMAD Skills
@@ -308,7 +308,7 @@ Cria planos persistentes em arquivos para tarefas longas, evitando perda de cont
 
 Adapta o método BMAD para Claude Code: histórias, épicos, planejamento e execução com agentes.
 
-🔗 [Acessar Repositório](https://github.com/aj-geodes/claude-code-bmad-skills)
+🔗 [https://github.com/aj-geodes/claude-code-bmad-skills](https://github.com/aj-geodes/claude-code-bmad-skills)
 
 ---
 
@@ -321,7 +321,7 @@ Adapta o método BMAD para Claude Code: histórias, épicos, planejamento e exec
 
 Pacote amplo para criar e manipular PDF, DOCX, XLSX e PPTX.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills)
+🔗 [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
 
 ---
 ### Algorithmic Art
@@ -329,7 +329,7 @@ Pacote amplo para criar e manipular PDF, DOCX, XLSX e PPTX.
 
 Cria arte algorítmica e experimentos visuais.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)
 
 ---
 ### Data Analysis
@@ -337,7 +337,7 @@ Cria arte algorítmica e experimentos visuais.
 
 Fluxos para análise de dados, tabelas e exploração orientada.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/xlsx)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)
 
 ---
 ### Firecrawl
@@ -345,7 +345,7 @@ Fluxos para análise de dados, tabelas e exploração orientada.
 
 Scraping, pesquisa e browser automation com Firecrawl.
 
-🔗 [Acessar Repositório](https://github.com/firecrawl/tree/main/skills/firecrawl-agent)
+🔗 [https://github.com/firecrawl/tree/main/skills/firecrawl-agent](https://github.com/firecrawl/tree/main/skills/firecrawl-agent)
 
 ---
 ### Printing Press
@@ -353,7 +353,7 @@ Scraping, pesquisa e browser automation com Firecrawl.
 
 Transforma sites/APIs em interfaces ou CLIs mais fáceis para agentes.
 
-🔗 [Acessar Repositório](https://github.com/mvanhorn/cli-printing-press/tree/main/skills/printing-press)
+🔗 [https://github.com/mvanhorn/cli-printing-press/tree/main/skills/printing-press](https://github.com/mvanhorn/cli-printing-press/tree/main/skills/printing-press)
 
 ---
 ### Corey Haines Marketing Skills
@@ -361,7 +361,7 @@ Transforma sites/APIs em interfaces ou CLIs mais fáceis para agentes.
 
 Stack de marketing: CRO, SEO, copywriting, lifecycle, analytics, growth e RevOps.
 
-🔗 [Acessar Repositório](https://github.com/coreyhaines31/marketingskills)
+🔗 [https://github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 ---
 ### Remotion Best Practices
@@ -369,7 +369,7 @@ Stack de marketing: CRO, SEO, copywriting, lifecycle, analytics, growth e RevOps
 
 Ajuda a criar vídeos programáticos com React/Remotion.
 
-🔗 [Acessar Repositório](https://github.com/remotion-dev/skills/tree/main/skills/remotion-best-practices)
+🔗 [https://github.com/remotion-dev/skills/tree/main/skills/remotion-best-practices](https://github.com/remotion-dev/skills/tree/main/skills/remotion-best-practices)
 
 ---
 ### Claude Art Skill
@@ -377,7 +377,7 @@ Ajuda a criar vídeos programáticos com React/Remotion.
 
 Criação e direção visual com estética, marca e workflows de imagem.
 
-🔗 [Acessar Repositório](https://github.com/aplaceforallmystuff/claude-art-skill/tree/main/skills/art)
+🔗 [https://github.com/aplaceforallmystuff/claude-art-skill/tree/main/skills/art](https://github.com/aplaceforallmystuff/claude-art-skill/tree/main/skills/art)
 
 ---
 ### Music Creation
@@ -385,7 +385,7 @@ Criação e direção visual com estética, marca e workflows de imagem.
 
 Criação musical/áudio em workflows criativos.
 
-🔗 [Acessar Repositório](https://github.com/bwize-music-studio/claude-ai-music-skills)
+🔗 [https://github.com/bwize-music-studio/claude-ai-music-skills](https://github.com/bwize-music-studio/claude-ai-music-skills)
 
 ---
 ### Deckset Presentation Expert
@@ -393,7 +393,7 @@ Criação musical/áudio em workflows criativos.
 
 Ajuda a transformar conteúdo em apresentações estruturadas com markdown/Deckset.
 
-🔗 [Acessar Repositório](https://github.com/doudou1337/deckset-claude-skill/tree/main/skills/deckset-presentation-expert)
+🔗 [https://github.com/doudou1337/deckset-claude-skill/tree/main/skills/deckset-presentation-expert](https://github.com/doudou1337/deckset-claude-skill/tree/main/skills/deckset-presentation-expert)
 
 ---
 
@@ -406,7 +406,7 @@ Ajuda a transformar conteúdo em apresentações estruturadas com markdown/Decks
 
 Ajuda a criar novas skills personalizadas, com estrutura e instruções reutilizáveis.
 
-🔗 [Acessar Repositório](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
+🔗 [https://github.com/anthropics/skills/tree/main/skills/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
 
 ---
 ### Git Guardrails
@@ -414,7 +414,7 @@ Ajuda a criar novas skills personalizadas, com estrutura e instruções reutiliz
 
 Evita ações perigosas no Git: push indevido, reset hard, clean, branch delete e outras aventuras radioativas.
 
-🔗 [Acessar Repositório](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)
+🔗 [https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)
 
 ---
 ### Superpowers
@@ -422,7 +422,7 @@ Evita ações perigosas no Git: push indevido, reset hard, clean, branch delete 
 
 Transforma o agente em um fluxo de engenharia: brainstorm, spec, plano, TDD, subagentes, review e debug.
 
-🔗 [Acessar Repositório](https://github.com/obra/superpowers)
+🔗 [https://github.com/obra/superpowers](https://github.com/obra/superpowers)
 
 ---
 ### Grill Me
@@ -430,7 +430,7 @@ Transforma o agente em um fluxo de engenharia: brainstorm, spec, plano, TDD, sub
 
 Faz o agente te entrevistar antes de implementar, reduzindo briefing ruim e retrabalho.
 
-🔗 [Acessar Repositório](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me)
+🔗 [https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me)
 
 ---
 ### Caveman
@@ -438,7 +438,7 @@ Faz o agente te entrevistar antes de implementar, reduzindo briefing ruim e retr
 
 Corta a verbosidade do agente e força respostas técnicas, curtas e diretas.
 
-🔗 [Acessar Repositório](https://github.com/JuliusBrussee/caveman)
+🔗 [https://github.com/JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 ---
 ### Find Skills
@@ -446,7 +446,7 @@ Corta a verbosidade do agente e força respostas técnicas, curtas e diretas.
 
 Encontra skills relevantes para uma tarefa específica. A melhor isca do pacote: resolve o garimpo antes de qualquer outra coisa.
 
-🔗 [Acessar Repositório](https://github.com/vercel-labs/skills/tree/main/skills/find-skills)
+🔗 [https://github.com/vercel-labs/skills/tree/main/skills/find-skills](https://github.com/vercel-labs/skills/tree/main/skills/find-skills)
 
 ---
 ### Last30Days
@@ -454,7 +454,7 @@ Encontra skills relevantes para uma tarefa específica. A melhor isca do pacote:
 
 Pesquisa discussões recentes em X, Reddit, HN, YouTube e web sobre um tema.
 
-🔗 [Acessar Repositório](https://github.com/mvanhorn/last30days-skill/tree/main/skills/last30days)
+🔗 [https://github.com/mvanhorn/last30days-skill/tree/main/skills/last30days](https://github.com/mvanhorn/last30days-skill/tree/main/skills/last30days)
 
 ---
 
