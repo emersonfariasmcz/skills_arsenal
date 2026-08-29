@@ -1,10 +1,12 @@
-# 🧠 Catálogo Dinâmico de AI Skills · Repositório de Produtividade
+# 🧠 Catálogo · Skills · 
 
 [![Markdown](https://img.shields.io/badge/Markdown-Standard-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Artificial Intelligence](https://img.shields.io/badge/AI-Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%99%A5-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
-Uma coleção em constante evolução focada em instruções especializadas (Skills) para agentes de inteligência artificial. O objetivo deste repositório é catalogar pastas e artefatos de contexto que ensinam a IA a executar domínios específicos com alta proficiência, transformando assistentes genéricos em ferramentas de engenharia, design e gestão altamente ajustadas.
+"Bem-vindo(a) ao meu catálogo de AI Skills! 👋
+
+Criei este espaço para organizar instruções especializadas para inteligências artificiais com um objetivo duplo. Primeiro, construir uma base de ferramentas prontas para o meu dia a dia, transformando assistentes genéricos em verdadeiros parceiros de desenvolvimento, análise de dados e gestão. Segundo, compartilhar abertamente todo esse conhecimento com a comunidade, para que mais pessoas possam otimizar suas rotinas e explorar o verdadeiro potencial dessas tecnologias."
 
 ---
 
