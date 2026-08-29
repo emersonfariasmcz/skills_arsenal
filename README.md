@@ -1,4 +1,4 @@
-# 🧠 Catálogo · Skills · 
+# 🧠 Catálogo de Skills · Claude 
 
 [![Markdown](https://img.shields.io/badge/Markdown-Standard-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Artificial Intelligence](https://img.shields.io/badge/AI-Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)]()
