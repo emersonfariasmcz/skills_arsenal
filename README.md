@@ -6,7 +6,7 @@
 
 Bem-vindo(a) ao meu catálogo de AI Skills! 
 
-Criei este espaço para listar as melhores skills para facilitar a minha base de ferramentas prontas para o meu dia a dia, bem como, também resolvi deixar o repositório público, compartilhando todo esse conhecimento para que usuários, independende de sua especialização ou area de atuação possam também otimizar e potencializar suas rotinas e explorar o verdadeiro potencial dessas tecnologias.
+Criei este espaço para listar as melhores skills para facilitar a minha base de ferramentas prontas para o meu dia a dia, bem como, também resolvi deixar o repositório público, compartilhando todo esse conhecimento para que usuários, independende de sua especialização ou area de atuação, possam também otimizar e potencializar suas rotinas e explorar o verdadeiro potencial dessas tecnologias.
 
 ---
 
