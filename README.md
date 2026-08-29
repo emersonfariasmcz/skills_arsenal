@@ -4,7 +4,7 @@
 [![Artificial Intelligence](https://img.shields.io/badge/AI-Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%99%A5-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
-Bem-vindo(a) ao meu catálogo de AI Skills! 👋
+Bem-vindo(a) ao meu catálogo de AI Skills! 
 
 Criei este espaço para listar as melhores skills para facilitar a minha bse de ferramentas prontas para o meu dia a dia, bem como, também resolvi deixar o repositório público, compartilhando todo esse conhecimento para que usuários, independende de sua especialização ou area de atuação possam também otimizar e potencializar suas rotinas e explorar o verdadeiro potencial dessas tecnologias."
 
